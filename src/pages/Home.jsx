@@ -22,7 +22,7 @@ function Home() {
               className="text-indigo-600 hover:underline ml-1"
             >
               Nickshay Chouhan
-            </a>
+            </a>{" "}
             using React and face-api.js. The main objective of the application
             is to offer a reliable and efficient authentication system by
             analyzing and verifying users' facial features. This application
