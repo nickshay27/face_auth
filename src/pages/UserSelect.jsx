@@ -11,14 +11,14 @@ const accounts = [
   },
   {
     id: "43332f46-89a4-435c-880e-4d72bb51149a",
-    fullName: "Shamun Khatri",
-    picture: "43332f46-89a4-435c-880e-4d72bb51149a/1.jpg",
+    fullName: "Steave Jobs",
+    picture: "43332f46-89a4-435c-880e-4d72bb51149a/stevejobs.jpeg",
   },
 
   {
     id: "12637183-89ac-1234-80-2712nicks511729",
-    fullName: "Nickshay Chouhan 2",
-    picture: "12637183-89ac-1234-80-2712nicks511729/Nick.jpg",
+    fullName: "Cody Roheds",
+    picture: "12637183-89ac-1234-80-2712nicks511729/cody.jpeg",
   },
 ];
 
