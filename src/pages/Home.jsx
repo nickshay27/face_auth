@@ -14,10 +14,21 @@ function Home() {
           </h1>
           <p className="mt-8 text-md text-gray-600 max-w-3xl mx-4 md:mx-16 lg:mx-auto">
             The Facial Recognition-Based Authentication Application is a
-            cutting-edge web application developed using React and face-api.js.
-            The main objective of the application is to offer a reliable and
-            efficient authentication system by analyzing and verifying the
-            user's facial features.
+            cutting-edge web application developed by
+            <a
+              href="https://www.linkedin.com/in/nickshay-chouhan-2537b021a/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-indigo-600 hover:underline ml-1"
+            >
+              Nickshay Chouhan
+            </a>
+            using React and face-api.js. The main objective of the application
+            is to offer a reliable and efficient authentication system by
+            analyzing and verifying users' facial features. This application
+            leverages advanced facial recognition algorithms to ensure accurate
+            identification, providing a secure and user-friendly authentication
+            solution.
           </p>
           <Link
             to={"/user-select"}
